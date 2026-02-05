@@ -1,0 +1,22 @@
+# RWA Dashboard Methodology
+
+This guide documents the classification rules, taxonomy, evidence flags, and metric definitions used to power the DeFiLlama RWA Dashboard.
+
+## Pages in this section
+
+- [Evidence flags](./evidence-flags)
+- [Metrics](./metrics)
+- [Access Model](./access-model)
+- [RWA Classification](./rwa-classification)
+- [Column definitions](./column-definitions)
+- [Taxonomy](./taxonomy)
+
+## What this is
+
+The RWA Dashboard is built from a structured dataset where each row represents an asset, a wrapper, or a platform entry related to real-world assets.
+
+The methodology is designed to be:
+
+- Reproducible from public sources and onchain reads
+- Consistent across assets, wrappers, and platforms
+- Clear about what is known, and what is not publicly verifiable
