@@ -141,7 +141,7 @@ Asset Class refines the Category by describing the specific token product struct
 - **Uranium**: Tokens backed primarily by uranium or uranium inventory.
 - **Other Commodity**: Tokens backed by a single physical commodity that is not a precious metal or uranium, such as crude oil, natural gas, agricultural products, or metals outside the precious metals category.
 - **Commodity Basket**: Tokens backed by a basket of commodities rather than a single underlying asset.
-- **Commodity Backed**: Tokens 1:1 collateralized by physical commodity holdings (single-name allocated structure).
+- **Commodity Backed**: Tokens 1:1 collateralized by physical commodity holdings.
 
 ### Real Estate
 
@@ -205,7 +205,7 @@ Asset Class refines the Category by describing the specific token product struct
 - **Stock Perp**: Perpetual markets that track the price of an individual public company's equity. They provide margined, cash-settled equity exposure and do not confer ownership of the underlying shares.
 - **ETF Perp**: Perpetual markets that track the price of an exchange-traded fund. They provide margined, cash-settled fund exposure and do not represent ownership of fund shares or redemption rights.
 - **Equity Perp**: Perpetual markets that track a public-equity benchmark or basket. They provide margined, cash-settled index exposure rather than a directly backed token or ownership claim on constituent shares.
-- **Equity Index Perp**: Perpetual markets that track a broad equity index — S&P 500, Nasdaq-100, Dow Jones, Nifty 50, Bovespa, or similar.
+- **Equity Index Perp**: Perpetual markets that track a broad equity index: S&P 500, Nasdaq-100, Dow Jones, Nifty 50, Bovespa, or similar.
 - **Commodity Perp**: Perpetual markets that track a commodity or commodity benchmark, such as gold or crude oil. They provide margined, cash-settled commodity exposure and do not represent title to physical inventory.
 - **Bond Perp**: Perpetual markets that track a bond or bond benchmark, such as government bonds, bond ETFs, or fixed-income indices. They provide margined, cash-settled fixed-income exposure and do not represent ownership of the underlying securities.
 - **Real Estate Perp**: Perpetual markets that track a real estate price index, such as a city or regional housing index. They provide margined, cash-settled real estate exposure and do not represent ownership of underlying property.
