@@ -15,4 +15,4 @@ The RWA section is split into two dashboards:
 - [Methodology & Metrics](methodology-and-metrics.md) — evidence flags, metric definitions, access models, and RWA classification rules.
 - [Definitions & Taxonomy](definitions-and-taxonomy.md) — column definitions, type taxonomy, category taxonomy, and asset class taxonomy.
 - [RWA Perps](rwa-perps.md) — dashboard guide, column definitions, asset class taxonomy, and reference asset group taxonomy for the RWA Perps dashboard.
-- [RWA Token Submission Form](https://forms.defillama.com/rwa-submission) — required fields for submitting a new RWA token to the dashboard.
+- [RWA Token Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfZvXQKwv6O_Ty4yHCmxtYdeb23Rfg3KmgfKPJM_zjHT2OHfg/viewform) — required fields for submitting a new RWA token to the dashboard, for both single assets and bulk listings.
