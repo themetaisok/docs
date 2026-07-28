@@ -8,6 +8,7 @@ The DeFiLlama RWA Dashboard provides comprehensive tracking and classification o
 
 * [**Methodology & Metrics**](methodology-and-metrics.md): Evidence flags, metric definitions, access models, and RWA classification rules
 * [**Definitions & Taxonomy**](definitions-and-taxonomy.md): Column definitions, type taxonomy, category taxonomy, and asset class taxonomy
+* [**RWA Token Submission Form**](https://docs.google.com/forms/d/e/1FAIpQLSfZvXQKwv6O_Ty4yHCmxtYdeb23Rfg3KmgfKPJM_zjHT2OHfg/viewform): Submit a single asset or a bulk listing for the RWA dashboard
 
 ## Purpose
 
